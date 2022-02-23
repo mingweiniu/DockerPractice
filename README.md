@@ -1,4 +1,4 @@
 # DockerPractice
 
-* create image
+* create image  
 $ docker build -t aiarvr ./aiarvr
